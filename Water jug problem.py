@@ -1,3 +1,5 @@
+# IMPLEMENT AND DEMONSTRATE DEPTH FIRST SEARCH ALGORITHM ON WATER JUG PROBLEM, IMPORT COLLECTIONS.
+
 from collections import deque
 def Solution(a, b, target):
 	m = {}
